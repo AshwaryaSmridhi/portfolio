@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url(img/ho1.png);
+	
+	background-color:#D7873A;
+	background-blend-mode: multiply;
+}
+h1 {
+	color:#979595;
+	font-size:100px;
+	padding: 80px;
+	font-family: 'Chelsea Market', cursive;
+	}
